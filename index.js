@@ -1,2 +1,3 @@
 // write your code below!
-console.log('hello world'); node index.js
+console.log('hello world');
+
